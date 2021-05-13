@@ -1,0 +1,4 @@
+name: ConFlip
+version: ${project.version}
+main: com.redspeaks.coinflip.CoinFlip
+api-version: 1.16
